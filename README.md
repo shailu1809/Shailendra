@@ -1,7 +1,9 @@
 Shailendra Soni
 ===============
 Senior Engineer: Application & Technical Support
+
 Qlite Electronics Controls Pvt Ltd
+
 Gurgaon, Haryana, INDIA
 
 Provides integrated solutions for Smart Home Automation which includes:
